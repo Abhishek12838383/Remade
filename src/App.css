@@ -1,0 +1,144 @@
+body{
+  margin: 0;
+  padding: 0;
+  border: 5px solid #49C5B6;
+}
+.App hr{
+
+  color: gray;
+}
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 80px;
+}
+.logo img{
+  height: 45px;
+}
+.menu-bar{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.noti img{
+  height: 30px;
+}
+.noti span{
+  color: gray;
+}
+.coin{
+  gap: 5px;
+  display: flex;
+}
+.coin span{
+  color: gray;
+}
+.profile span{
+  color: gray;
+}
+.coin img{
+  height: 30px;
+}
+.profile img{
+  height: 30px;
+}
+.nav-list ul{
+  margin-left: 5vw;
+  font-size: 1rem;
+  font-weight: 500;
+display: flex;
+align-items: center;
+gap: 30px;
+list-style: none;
+}
+.nav-list ul li{
+  display: flex;
+  align-items: center;
+}
+.heading{
+  font-size: 3rem;
+  font-weight: 600;
+  color: #343A40;
+  margin-left: 35vw;
+  margin-top: 5vh;
+  margin-bottom: 10vh;
+}
+
+.lead-line ul{
+  border-top: 3px solid #0F3556;
+  border-bottom: 3px solid #0F3556;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  font-size: 1rem;
+  font-weight: 500;
+  height: 30px;
+display: flex;
+align-items: center;
+gap: 30px;
+list-style: none;
+}
+.name{
+  margin-right: 120px;
+}
+.namee{
+  margin-right: 20px;
+}
+.ratio{
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  margin-right: 60px;
+}
+.ratio span{
+  color: green;
+}
+.profit{
+  margin-right: 50px;
+}
+.avgprofit{
+  margin-right: 60px;
+}
+.per{
+  margin-right: 70px;
+}
+.price{
+  margin-right: 40px;
+}
+.action{
+  color: #52A6FF;
+}
+
+.lists{
+  display: flex;
+  align-items: center;
+  margin-left: 10vw;
+  margin-right: 5vw;
+  gap: 30px;
+}
+.list hr{
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+.lead-top{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 8vw;
+  margin-right: 23vw;
+}
+.lead-name{
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #343A40;
+}
+.lead-btn{
+  border: 1px solid #59728b;
+  border-radius: 5px;
+  padding: 5px;
+  width: 110px;
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  color: #0F3556;
+}
